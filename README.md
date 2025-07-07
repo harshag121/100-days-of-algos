@@ -1,2 +1,1 @@
-# 100-days-of-algos
-#Test Commit
+## 100 Days DSA Mastery
